@@ -1,0 +1,14 @@
+### Root
+GET http://localhost:3000/
+
+### GET Products
+GET http://localhost:3000/products
+
+### POST Create product
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "product": "Charger",
+    "stock": 7
+}
