@@ -109,7 +109,7 @@ app.delete('/products/:id', (req, res) => {
     const productIndex = products.findIndex(p => p.id === productId);
 
     if (productIndex === -1) {
-        return res.status(404).json({ error: "Product not found"});
+        return res.status(404).json({ error: "Product not found" });
     }
 
     products.splice(productIndex, 1);

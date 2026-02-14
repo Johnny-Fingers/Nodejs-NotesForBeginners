@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Portable computer suitable for work, study, and everyday tasks.",
+        "category": "Computers",
+        "hasDelivery": true,
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with high precision and long battery life.",
+        "category": "Accessories",
+        "hasDelivery": true,
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "name": "Keyboard",
+        "description": "Full-size keyboard with comfortable keys for typing and gaming.",
+        "category": "Accessories",
+        "hasDelivery": true,
+        "stock": 35
+    },
+    {
+        "id": 4,
+        "name": "Monitor 24\"",
+        "description": "24-inch Full HD monitor ideal for office and multimedia use.",
+        "category": "Computers",
+        "hasDelivery": true,
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "name": "USB-C Cable",
+        "description": "Durable USB-C cable for charging and data transfer.",
+        "category": "Accessories",
+        "hasDelivery": true,
+        "stock": 100
+    },
+    {
+        "id": 6,
+        "name": "External Hard Drive",
+        "description": "Portable external hard drive for secure data storage and backups.",
+        "category": "Storage",
+        "hasDelivery": true,
+        "stock": 12
+    },
+    {
+        "id": 7,
+        "name": "Webcam",
+        "description": "HD webcam suitable for video calls and online meetings.",
+        "category": "Accessories",
+        "hasDelivery": true,
+        "stock": 18
+    },
+    {
+        "id": 8,
+        "name": "Headphones",
+        "description": "Over-ear headphones with clear sound and noise isolation.",
+        "category": "Audio",
+        "hasDelivery": true,
+        "stock": 40
+    },
+    {
+        "id": 9,
+        "name": "Smartphone",
+        "description": "Modern smartphone with a high-resolution display and fast performance.",
+        "category": "Mobile Devices",
+        "hasDelivery": true,
+        "stock": 25
+    },
+    {
+        "id": 10,
+        "name": "Tablet",
+        "description": "Lightweight tablet perfect for browsing, reading, and media consumption.",
+        "category": "Mobile Devices",
+        "hasDelivery": true,
+        "stock": 14
+    },
+    {
+        "id": 11,
+        "name": "Power Bank",
+        "description": "Portable power bank to recharge devices on the go.",
+        "category": "Accessories",
+        "hasDelivery": true,
+        "stock": 60
+    },
+    {
+        "id": 12,
+        "name": "Bluetooth Speaker",
+        "description": "Compact Bluetooth speaker with powerful sound.",
+        "category": "Audio",
+        "hasDelivery": true,
+        "stock": 22
+    },
+    {
+        "id": 13,
+        "name": "Smartwatch",
+        "description": "Smartwatch with fitness tracking and notification support.",
+        "category": "Wearables",
+        "hasDelivery": true,
+        "stock": 17
+    },
+    {
+        "id": 14,
+        "name": "HDMI Cable",
+        "description": "High-speed HDMI cable for audio and video transmission.",
+        "category": "Accessories",
+        "hasDelivery": true,
+        "stock": 80
+    },
+    {
+        "id": 15,
+        "name": "Router",
+        "description": "Wi-Fi router providing stable and fast internet connectivity.",
+        "category": "Networking",
+        "hasDelivery": true,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "name": "Printer",
+        "description": "Inkjet printer suitable for home and small office use.",
+        "category": "Office Equipment",
+        "hasDelivery": false,
+        "stock": 8
+    },
+    {
+        "id": 17,
+        "name": "Scanner",
+        "description": "Document scanner for digitizing papers and images.",
+        "category": "Office Equipment",
+        "hasDelivery": false,
+        "stock": 6
+    },
+    {
+        "id": 18,
+        "name": "Microphone",
+        "description": "High-quality microphone for streaming, recording, and calls.",
+        "category": "Audio",
+        "hasDelivery": true,
+        "stock": 27
+    },
+    {
+        "id": 19,
+        "name": "Graphics Card",
+        "description": "Dedicated graphics card designed for gaming and graphic-intensive tasks.",
+        "category": "Components",
+        "hasDelivery": true,
+        "stock": 5
+    },
+    {
+        "id": 20,
+        "name": "SSD 1TB",
+        "description": "1TB solid-state drive offering fast storage and quick boot times.",
+        "category": "Storage",
+        "hasDelivery": true,
+        "stock": 30
+    }
+]
